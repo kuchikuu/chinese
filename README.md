@@ -11,24 +11,24 @@ Hello. This repository will be for everyone, especially to people who learn Chin
 * - Menu items, categories etc.
 <br>
 <br>
-+Main Menu
-
-新闻 - 新聞 - xīn wén - News
-视频 - 視頻 - shì pín - Videos
-图片 - 圖片 - tú piàn - Images
-军事 - 軍事 - jūn shì - Military affairs
-体育 - 體育 - tǐ yù - Sport
-娱乐 - 娛樂 - yú lè - Entertainment
-财经 - 財經 - cái jīng - Finance and Economics
-科技 - 科技 - kē jì - Science and Technology
-时尚 - 時尚 - shí shàng - Fashion
-汽车 - 汽車 - qì chē - Cars
-房产 - 房產 - fáng chǎn - Real Estate
-教育 - 教育 - jiào yù - Education
-文化 - 文化 - wén huà - Culture
-游戏 - 遊戲 - yóu xì - Games
-星座 - 星座 - xīng zuò - Constellation
-
++Main Menu<br>
+<br>
+新闻 - 新聞 - xīn wén - News<br>
+视频 - 視頻 - shì pín - Videos<br>
+图片 - 圖片 - tú piàn - Images<br>
+军事 - 軍事 - jūn shì - Military affairs<br>
+体育 - 體育 - tǐ yù - Sport<br>
+娱乐 - 娛樂 - yú lè - Entertainment<br>
+财经 - 財經 - cái jīng - Finance and Economics<br>
+科技 - 科技 - kē jì - Science and Technology<br>
+时尚 - 時尚 - shí shàng - Fashion<br>
+汽车 - 汽車 - qì chē - Cars<br>
+房产 - 房產 - fáng chǎn - Real Estate<br>
+教育 - 教育 - jiào yù - Education<br>
+文化 - 文化 - wén huà - Culture<br>
+游戏 - 遊戲 - yóu xì - Games<br>
+星座 - 星座 - xīng zuò - Constellation<br>
+<br>
 
 Explanation: <br>
 The goal is to make easily readable "database". <br>
